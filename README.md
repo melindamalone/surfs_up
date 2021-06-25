@@ -14,10 +14,10 @@
 -
 
 ### June Statistics
-![](June_Query.PNG)
+![](Resources/June_Query.PNG)
 
 ### December Statistics
-![](December_Query.PNG)
+![](Resources/December_Query.PNG)
 
 ### Summary
 
